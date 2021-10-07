@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AnimeClubPMS.frm_login" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAAAEACAAAAAAAACAAAACAAAAEAAIAAAJAAAAAAA=</HashCode>
+      <FileName>frm_login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimeClubPMS.frm_main" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEIABBAEGAAAAAAAACAACACAgAAAAANAIAAAAgAAAA=</HashCode>
+      <FileName>frm_main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimeClubPMS.frm_MemberfileAdd" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>74IABQAAAOBAUBAAAACApAACAEAEBCIIAAAAAPCACDA=</HashCode>
+      <FileName>frm_MemberfileAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimeClubPMS.Member_Management" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAQAAAKAEABAAAACIIAACAAwABAAIAAAAAAGAAEA=</HashCode>
+      <FileName>Member_Management.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimeClubPMS.MemberAdd" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>54AAAAEAACJgAABQABCAAAASAEAABAAIAAAgAAAABBA=</HashCode>
+      <FileName>MemberAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimeClubPMS.MemberfileManage" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAQAAAKAAABAAAACAIBACAAwABAAIAAgAAAGAAEA=</HashCode>
+      <FileName>MemberfileManage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimeClubPMS.Program" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimeClubPMS.Properties.Resources" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAIAACABEIAAAQAAAAAAAAAAAAAAEIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimeClubPMS.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlHelper" Collapsed="true">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAiAAAAAACAkABAEBECAgAAAAAABABAAAAIAAIA=</HashCode>
+      <FileName>SQLHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlHelperParameterCache" Collapsed="true">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAEECAAIAAAAAAAARAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
